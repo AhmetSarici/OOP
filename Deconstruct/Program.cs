@@ -15,7 +15,6 @@ class Program
         var (x, y) = p1;
 
         System.Console.WriteLine($"{x} kişisinin yaşı {y}' dir.");
-
         #endregion
     }
 }
