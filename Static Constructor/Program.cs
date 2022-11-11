@@ -20,6 +20,7 @@ class Program
             datebase1.ConnectionString = "abcabcabc";
             var datebase3 = DateBase.GetInstance;
             System.Console.WriteLine("İlk iki nesne ile aynı nesne midir : " + datebase3.ConnectionString);
+
         }
         #endregion
     }
