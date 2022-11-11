@@ -123,6 +123,7 @@ class EmployeeClass
 {
     public string ad { get; init; }
     public int maas { get; init; }
+
     public EmployeeClass With(int Maas2)
     {
         return new EmployeeClass
