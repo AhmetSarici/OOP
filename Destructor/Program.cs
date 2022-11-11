@@ -35,6 +35,7 @@ class Program
         #endregion
     }
 
+
     static void x()
     {
         MyClass m2 = new();
