@@ -5,6 +5,7 @@ class Program
     MyClass m1 = new MyClass();
     MyClass m2 = new MyClass();
 
+
     //Aynı isimde Field ile metodu ayırmak için kullanılır
     //This keyword'ü class yapılanmasının o anki nesnesine karşılık gelir.
 
