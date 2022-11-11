@@ -16,6 +16,7 @@ class Program
         //Record birtek Object sınıfından alabilir*
         //Kalıtım compiler saviyesinde aktarılır
 
+
         {
             Muhasebeci muhasebeci = new Muhasebeci();
             Mudur mudur = new Mudur();
