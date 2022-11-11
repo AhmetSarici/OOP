@@ -65,7 +65,6 @@ class Program
         }
         #endregion
 
-
         #endregion
 
         #region Records Constructor
