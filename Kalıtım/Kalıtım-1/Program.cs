@@ -55,7 +55,7 @@ class Yazilimci : Personel
     public string KullandigiDil { get; set; }
 }
 
-class Mudur
+class Mudur : Personel
 {
 
 }
