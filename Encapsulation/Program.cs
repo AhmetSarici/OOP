@@ -37,6 +37,7 @@ class MyClass3
         this.a = value;
     }
 
+
     private int yas;
     public int Yas
     {
