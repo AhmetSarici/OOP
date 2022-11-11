@@ -33,6 +33,7 @@ class Program
             my3.X = 15;
             System.Console.WriteLine(my3.X);
         }
+
         #endregion
 
         #region Object Initializer
