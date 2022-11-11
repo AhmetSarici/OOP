@@ -34,6 +34,7 @@ class Program
             System.Console.WriteLine("Full Prop Örneği : " + my1.Yasi);
             #endregion
         }
+
         {
             #region Prop
             //herhangi işlem yapmadan direkt fiealda gönderir
