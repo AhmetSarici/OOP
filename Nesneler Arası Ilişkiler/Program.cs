@@ -121,7 +121,7 @@ class Araba2
 }
 class Opel2 : Araba2
 {
-    Motor2 motor;
+    Motor2? motor;
 }
 class Motor2
 {
