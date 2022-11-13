@@ -36,8 +36,8 @@ class Program
 
 class Araba
 {
-    public string Marka { get; set; }
-    public string Model { get; set; }
+    public string? Marka { get; set; }
+    public string? Model { get; set; }
     public int KM { get; set; }
 }
 
@@ -52,7 +52,7 @@ class Muhasebeci : Personel
 }
 class Yazilimci : Personel
 {
-    public string KullandigiDil { get; set; }
+    public string? KullandigiDil { get; set; }
 }
 
 class Mudur : Personel
@@ -62,7 +62,7 @@ class Mudur : Personel
 
 class Personel
 {
-    public string Adi { get; set; }
-    public string Soyadi { get; set; }
+    public string? Adi { get; set; }
+    public string? Soyadi { get; set; }
     public bool MedeniHal { get; set; }
 }
