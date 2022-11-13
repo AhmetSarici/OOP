@@ -60,7 +60,7 @@ class Program
             {
                 //      as operatörü
                 A a3 = new C();
-                C c3 = a3 as C;
+                C? c3 = a3 as C;//? Nulable operatörü
 
                 //Burada atayı torunun referans etmeye çalışıldığı durumlarda null döner.
 
