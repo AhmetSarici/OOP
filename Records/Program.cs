@@ -121,7 +121,7 @@ class MyClass
 
 class EmployeeClass
 {
-    public string ad { get; init; }
+    public string? ad { get; init; } //Nulable operatörü ?
     public int maas { get; init; }
 
     public EmployeeClass With(int Maas2)
@@ -135,6 +135,6 @@ class EmployeeClass
 }
 record EmplooyeRecord
 {
-    public string ad { get; init; }
+    public string? ad { get; init; } //Nulable operatörü ?
     public int maas { get; init; }
 }
